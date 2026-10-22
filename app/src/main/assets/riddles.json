@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "text": "Soy un lenguaje de programación moderno que usa \"fun\" para declarar funciones y \"val\" para constantes. ¿Quién soy?",
+    "hint": "Android lo usa de forma nativa.",
+    "options": ["Java", "Kotlin", "Swift", "Dart"],
+    "correctIndex": 1,
+    "difficulty": "FACIL",
+    "isUserCreated": false
+  },
+  {
+    "id": 2,
+    "text": "¿Qué empresa desarrolla el sistema operativo Android?",
+    "hint": "También creó Gmail, Maps y Chrome.",
+    "options": ["Apple", "Microsoft", "Google", "Samsung"],
+    "correctIndex": 2,
+    "difficulty": "FACIL",
+    "isUserCreated": false
+  },
+  {
+    "id": 3,
+    "text": "¿Qué extensión tienen los archivos que se instalan en un teléfono Android?",
+    "hint": "Es el formato que genera Android Studio al compilar.",
+    "options": [".exe", ".apk", ".ipa", ".msi"],
+    "correctIndex": 1,
+    "difficulty": "FACIL",
+    "isUserCreated": false
+  },
+  {
+    "id": 4,
+    "text": "Soy el componente que coordina todas las demás operaciones del dispositivo. ¿Qué soy?",
+    "hint": "Me llaman el cerebro del teléfono.",
+    "options": ["GPU", "RAM", "CPU", "SSD"],
+    "correctIndex": 2,
+    "difficulty": "FACIL",
+    "isUserCreated": false
+  },
+  {
+    "id": 5,
+    "text": "¿Cómo se llama la carpeta especial de Android donde se guardan los datos de una app?",
+    "hint": "Su nombre viene de \"datos de la app\".",
+    "options": ["assets", "res", "lib", "data"],
+    "correctIndex": 3,
+    "difficulty": "FACIL",
+    "isUserCreated": false
+  },
+  {
+    "id": 6,
+    "text": "¿Qué patrón de diseño garantiza que exista una única instancia de una clase en toda la aplicación?",
+    "hint": "Su nombre en inglés significa \"una sola instancia\".",
+    "options": ["Observer", "Factory", "Singleton", "Adapter"],
+    "correctIndex": 2,
+    "difficulty": "MEDIA",
+    "isUserCreated": false
+  },
+  {
+    "id": 7,
+    "text": "En bases de datos relacionales, ¿qué significan las siglas ACID?",
+    "hint": "Describe las propiedades que debe cumplir una transacción.",
+    "options": [
+      "Atomicidad, Consistencia, Aislamiento y Durabilidad",
+      "Acceso, Control, Integridad y Disponibilidad",
+      "Adaptación, Compatibilidad, Interoperabilidad y Disponibilidad",
+      "Atomicidad, Concurrencia, Indexación y Dependencia"
+    ],
+    "correctIndex": 0,
+    "difficulty": "MEDIA",
+    "isUserCreated": false
+  },
+  {
+    "id": 8,
+    "text": "¿Qué comando de Git fusiona los cambios de una rama en la rama actual?",
+    "hint": "Se usa después de hacer \"git checkout\" a la rama destino.",
+    "options": ["git push", "git commit", "git merge", "git clone"],
+    "correctIndex": 2,
+    "difficulty": "MEDIA",
+    "isUserCreated": false
+  },
+  {
+    "id": 9,
+    "text": "En Jetpack Compose, ¿qué componente se usa para renderizar listas largas de forma eficiente?",
+    "hint": "Su nombre significa \"columna perezosa\".",
+    "options": ["Column", "LazyColumn", "ScrollView", "ListView"],
+    "correctIndex": 1,
+    "difficulty": "MEDIA",
+    "isUserCreated": false
+  },
+  {
+    "id": 10,
+    "text": "¿Qué lenguaje de Apple usa \"let\" para declarar constantes y \"guard\" para salir temprano de una función?",
+    "hint": "Nació en 2014 junto con iOS 8.",
+    "options": ["Objective-C", "Swift", "Dart", "Rust"],
+    "correctIndex": 1,
+    "difficulty": "MEDIA",
+    "isUserCreated": false
+  },
+  {
+    "id": 11,
+    "text": "En concurrencia, ¿cómo se llama la situación en la que dos hilos dependen del orden de ejecución de los demás?",
+    "hint": "Es una carrera, literalmente.",
+    "options": ["Deadlock", "Race condition", "Starvation", "Live lock"],
+    "correctIndex": 1,
+    "difficulty": "DIFICIL",
+    "isUserCreated": false
+  },
+  {
+    "id": 12,
+    "text": "¿Cuál es la complejidad temporal de una búsqueda binaria en un arreglo ordenado?",
+    "hint": "Reduce el espacio de búsqueda a la mitad en cada paso.",
+    "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+    "correctIndex": 1,
+    "difficulty": "DIFICIL",
+    "isUserCreated": false
+  },
+  {
+    "id": 13,
+    "text": "En los principios SOLID, ¿cuál afirma que una clase debe tener una sola responsabilidad o razón para cambiar?",
+    "hint": "Es el primer principio, la \"S\".",
+    "options": [
+      "Open/Closed",
+      "Liskov Substitution",
+      "Single Responsibility",
+      "Dependency Inversion"
+    ],
+    "correctIndex": 2,
+    "difficulty": "DIFICIL",
+    "isUserCreated": false
+  },
+  {
+    "id": 14,
+    "text": "En Kotlin, ¿qué tipo de Flow siempre tiene un valor actual y solo emite cuando ese valor cambia?",
+    "hint": "Se parece a SharedFlow, pero garantiza un valor inicial.",
+    "options": ["Cold Flow", "StateFlow", "Channel", "LiveData"],
+    "correctIndex": 1,
+    "difficulty": "DIFICIL",
+    "isUserCreated": false
+  },
+  {
+    "id": 15,
+    "text": "¿Qué principio de la Programación Orientada a Objetos describe enviar mensajes a objetos sin conocer su implementación interna?",
+    "hint": "Su nombre viene de \"encapsular\".",
+    "options": ["Herencia", "Polimorfismo", "Encapsulamiento", "Abstracción"],
+    "correctIndex": 2,
+    "difficulty": "DIFICIL",
+    "isUserCreated": false
+  }
+]

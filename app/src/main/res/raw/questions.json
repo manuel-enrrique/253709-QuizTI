@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "text": "¿Qué palabra clave se usa para declarar una función en Kotlin?",
+    "options": ["func", "function", "fun", "def"],
+    "correctIndex": 2,
+    "category": "Programación",
+    "isUserCreated": false
+  },
+  {
+    "id": 2,
+    "text": "¿Qué es un bucle 'for' en programación?",
+    "options": [
+      "Una estructura para repetir código",
+      "Una variable",
+      "Un tipo de dato",
+      "Un operador lógico"
+    ],
+    "correctIndex": 0,
+    "category": "Programación",
+    "isUserCreated": false
+  },
+  {
+    "id": 3,
+    "text": "¿Qué protocolo se utiliza para traducir nombres de dominio a direcciones IP?",
+    "options": ["HTTP", "FTP", "DNS", "SMTP"],
+    "correctIndex": 2,
+    "category": "Redes",
+    "isUserCreated": false
+  },
+  {
+    "id": 4,
+    "text": "¿Cuál de los siguientes es un protocolo seguro para navegación web?",
+    "options": ["HTTP", "HTTPS", "FTP", "Telnet"],
+    "correctIndex": 1,
+    "category": "Redes",
+    "isUserCreated": false
+  },
+  {
+    "id": 5,
+    "text": "¿Qué comando SQL se utiliza para recuperar datos de una tabla?",
+    "options": ["INSERT", "UPDATE", "DELETE", "SELECT"],
+    "correctIndex": 3,
+    "category": "Bases de datos",
+    "isUserCreated": false
+  },
+  {
+    "id": 6,
+    "text": "¿Qué significa SQL?",
+    "options": [
+      "Structured Query Language",
+      "Simple Question Language",
+      "Standard Query Logic",
+      "System Query Language"
+    ],
+    "correctIndex": 0,
+    "category": "Bases de datos",
+    "isUserCreated": false
+  },
+  {
+    "id": 7,
+    "text": "¿Cuál es el sistema operativo de código abierto más utilizado en servidores?",
+    "options": ["Windows", "macOS", "Linux", "MS-DOS"],
+    "correctIndex": 2,
+    "category": "Sistemas operativos",
+    "isUserCreated": false
+  },
+  {
+    "id": 8,
+    "text": "¿Qué es el kernel en un sistema operativo?",
+    "options": [
+      "La interfaz gráfica",
+      "El núcleo que gestiona recursos",
+      "Un antivirus",
+      "Un navegador"
+    ],
+    "correctIndex": 1,
+    "category": "Sistemas operativos",
+    "isUserCreated": false
+  }
+]
