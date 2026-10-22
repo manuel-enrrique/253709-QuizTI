@@ -77,7 +77,7 @@ fun MenuContent(
         verticalArrangement = Arrangement.spacedBy(16.dp),
     ) {
         Text(
-            text = "AdivinaTI",
+            text = "QuizTI",
             style = MaterialTheme.typography.displaySmall,
             textAlign = TextAlign.Center,
             modifier = Modifier.fillMaxWidth(),
